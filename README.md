@@ -3,7 +3,7 @@
 </p>
 
 
-# PLANE-SYNTAX THEME
+# PLANE-ATOM-SYNTAX THEME
 
 A beautiful syntax theme for Atom, more information in [Plane project](https://github.com/wfpaisa/plane)
 
