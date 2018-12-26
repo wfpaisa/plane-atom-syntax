@@ -14,7 +14,7 @@ A beautiful syntax theme for Atom, more information in [Plane project](https://g
 
 ## Install
 1. Download in `~/.atom/packages/plane-atom-syntax`
-2. Open: Settings -> Themes -> syntax choose: Plane Atom
+2. Open: Settings -> Themes -> Syntax theme  and choose: Plane Atom
 3. I recommending install too, install [plane-atom-ui](https://github.com/wfpaisa/plane-atom-ui)
 
 
