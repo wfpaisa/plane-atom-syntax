@@ -11,9 +11,11 @@ A beautiful syntax theme for Atom, more information in [Plane project](https://g
 <img src="assets/screenshots/screenshot-01.png" />
 </p>
 
+
 ## Install
-1. Download in `~/.atom/packages`
-2. Open: Settings -> Themes -> choose: Plane
+1. Download in `~/.atom/packages/plane-atom-syntax`
+2. Open: Settings -> Themes -> syntax choose: Plane Atom
+3. I recommending install too, install (plane-atom-ui)[https://github.com/wfpaisa/plane-atom-ui]
 
 
 ## License
